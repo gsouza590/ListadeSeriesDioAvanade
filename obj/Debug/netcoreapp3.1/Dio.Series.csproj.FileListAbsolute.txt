@@ -1,0 +1,13 @@
+D:\Google Drive\Faculdade ADS\Digital Inovation\BootCamp Avanade C# e DotNet\Projeto Series\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.csprojAssemblyReference.cache
+D:\Google Drive\Faculdade ADS\Digital Inovation\BootCamp Avanade C# e DotNet\Projeto Series\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.AssemblyInfoInputs.cache
+D:\Google Drive\Faculdade ADS\Digital Inovation\BootCamp Avanade C# e DotNet\Projeto Series\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.AssemblyInfo.cs
+D:\Google Drive\Faculdade ADS\Digital Inovation\BootCamp Avanade C# e DotNet\Projeto Series\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.csproj.CoreCompileInputs.cache
+D:\Google Drive\Faculdade ADS\Digital Inovation\BootCamp Avanade C# e DotNet\Projeto Series\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.exe
+D:\Google Drive\Faculdade ADS\Digital Inovation\BootCamp Avanade C# e DotNet\Projeto Series\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.deps.json
+D:\Google Drive\Faculdade ADS\Digital Inovation\BootCamp Avanade C# e DotNet\Projeto Series\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.runtimeconfig.json
+D:\Google Drive\Faculdade ADS\Digital Inovation\BootCamp Avanade C# e DotNet\Projeto Series\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.runtimeconfig.dev.json
+D:\Google Drive\Faculdade ADS\Digital Inovation\BootCamp Avanade C# e DotNet\Projeto Series\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.dll
+D:\Google Drive\Faculdade ADS\Digital Inovation\BootCamp Avanade C# e DotNet\Projeto Series\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.pdb
+D:\Google Drive\Faculdade ADS\Digital Inovation\BootCamp Avanade C# e DotNet\Projeto Series\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.dll
+D:\Google Drive\Faculdade ADS\Digital Inovation\BootCamp Avanade C# e DotNet\Projeto Series\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.pdb
+D:\Google Drive\Faculdade ADS\Digital Inovation\BootCamp Avanade C# e DotNet\Projeto Series\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.genruntimeconfig.cache
